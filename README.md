@@ -1,2 +1,2 @@
 # programacion-funcional
-Ejercicios de programacion funcional
+Ejercicios de programacion funcional como practica
