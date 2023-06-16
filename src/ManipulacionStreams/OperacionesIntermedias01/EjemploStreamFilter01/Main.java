@@ -1,4 +1,4 @@
-package ManipulacionStreams.EjemploStreamFilter01;
+package ManipulacionStreams.OperacionesIntermedias01.EjemploStreamFilter01;
 
 import entities.Persona;
 
